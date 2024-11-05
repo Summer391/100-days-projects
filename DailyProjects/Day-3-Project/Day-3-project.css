@@ -1,0 +1,43 @@
+body{
+    background-color:#fad0c4;
+}
+
+#HTitle{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:40px;
+    /**/
+    text-align: center;
+}
+
+#hr1{
+    border:none;
+    background-color: black;
+    height:5px;
+    width:750px;
+}
+
+#info{
+    text-align: center;
+    /* */
+    font-size: large;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+ 
+.question{
+    text-align: center;
+}
+
+.choices{
+
+}
+
+.Qhr{
+    border:none;
+    height:2px;
+    background-color: black;
+    width: 700px;
+}
